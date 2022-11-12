@@ -5,7 +5,7 @@ plugins {
     `java-gradle-plugin`
     `maven-publish-conventions`
 
-    id("com.gradle.plugin-publish") version "1.0.0"
+    id("com.gradle.plugin-publish") version "1.1.0"
     id("org.jmailen.kotlinter") version "3.10.0"
 }
 
