@@ -19,7 +19,7 @@ dependencies {
     implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.0")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.14.0")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
-    implementation("org.jboss.forge.roaster:roaster-jdt:2.26.0.Final")
+    implementation("org.jboss.forge.roaster:roaster-jdt:2.28.0.Final")
     implementation("com.squareup:kotlinpoet:1.12.0")
 
     testImplementation("org.junit.jupiter:junit-jupiter:5.9.1")
