@@ -6,7 +6,7 @@ plugins {
     `maven-publish-conventions`
 
     id("com.gradle.plugin-publish") version "1.0.0"
-    id("org.jmailen.kotlinter") version "3.10.0"
+    id("org.jmailen.kotlinter") version "3.12.0"
 }
 
 java {
